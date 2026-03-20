@@ -1,0 +1,4 @@
+{
+    "command": "npm run dev -- -p <port> -H <host>",
+    "working_directory": "/home/kavia/workspace/code-generation/fitness-tracker-dashboard-335345-335361/fitness_frontend"
+}
